@@ -3,10 +3,10 @@
 </div>
  
 <p align='center'> 
-<a href="https://www.quora.com/profile/Premanshu-4"><img height="30" src="https://github.com/premanshup/premanshup/blob/add-quora-link/icons/quora.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/premanshu-pandey/"><img height="30" src="https://github.com/premanshup/premanshup/blob/add-quora-link/icons/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/premanshupandey"><img height="30" src="https://github.com/premanshup/premanshup/blob/add-quora-link/icons/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/premanshupandey/"><img height="30" src="https://github.com/premanshup/premanshup/blob/add-quora-link/icons/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.quora.com/profile/Premanshu-4"><img height="30" src="https://github.com/premanshup/premanshup/blob/main/icons/quora.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/premanshu-pandey/"><img height="30" src="https://github.com/premanshup/premanshup/blob/main/icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/premanshupandey"><img height="30" src="https://github.com/premanshup/premanshup/blob/main/icons/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/premanshupandey/"><img height="30" src="https://github.com/premanshup/premanshup/blob/main/icons/instagram.png"></a>&nbsp;&nbsp;
 
 
 <div align="center">
