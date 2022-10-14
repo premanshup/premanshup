@@ -16,7 +16,7 @@
 ### About me 
 
 - 👀 I talk about all things tech related [here](http://premanshupandey.com/blog/) 
-- 🐻 Developer of the most popular WordPress Form [WPForm](https://wpforms.com/)
+- 🐻 Developer of the most popular WordPress Form [WPForms](https://wpforms.com/)
 - ⚡ Developer of the most popular WordPress Theme [WP Astra](https://wordpress.org/themes/astra/)
 - 🎓 Graduate - Centre for Development of Advanced Computing (C-DAC)
 - 🤖 WordPress, ReacJS, PHP, CSS, HTML
